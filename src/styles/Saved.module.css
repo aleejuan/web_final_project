@@ -1,0 +1,20 @@
+.page {
+	width: 100%;
+	padding: 50px;
+}
+
+.list {
+	padding: 20px;
+	padding-bottom: 300px;
+	max-height: 80vh;
+	overflow-y: scroll;
+	display: grid;
+	row-gap: 40px;
+	grid-template-columns: auto auto auto;
+	column-gap: 50px;
+}
+
+.title {
+	font-size: 60px;
+	color: gray;
+}

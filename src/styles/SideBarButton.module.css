@@ -1,0 +1,12 @@
+.button {
+	border-radius: 30px;
+	display: flex;
+	width: 90%;
+	padding: 8px 16px;
+	text-decoration: none !important;
+}
+
+.txt {
+	color: white;
+	text-decoration: none !important;
+}

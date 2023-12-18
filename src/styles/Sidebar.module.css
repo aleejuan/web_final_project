@@ -1,0 +1,15 @@
+.sidebar {
+	background-color: #fa3a03;
+	max-width: 500px;
+	min-width: 400px;
+	height: 100vh;
+	padding: 20px;
+	color: #f1f1f1;
+}
+
+.list {
+	margin: 30px 0px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
